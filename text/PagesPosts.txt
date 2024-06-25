@@ -1,0 +1,220 @@
+4
+P1P1
+making Kashmiri Chai (Pink Tea)
+“Try this at home...”
+14 05 2024
+3
+u1 “Followers please try this recipe and give your feedback”
+u2 “Yummy”
+u3 “One pink tea for me”
+5
+u1 u2 u3 u4 u5
+P1P2
+making Halwa Puri
+“Sunday Special Breakfast for our followers...”
+13 05 2024
+3
+u2  “Delicious”
+u3  “Stay Healthy”
+u4  “Happy Meal”
+3
+u2 u3 u4
+P1P3
+cooking Chicken Biryani
+“Who's up for some spicy Biryani today?”
+02 05 2024
+4
+u3  “Can't resist the aroma!”
+u4  “My favorite dish!”
+u5  “Craving for Biryani now!”
+u1  “Count me in!”
+4
+u3 u4 u5 u1
+P1P4
+baking Chocolate Cake
+“Indulge in some chocolatey goodness...”
+01 05 2024
+3
+u1  “Looks heavenly!”
+u2  “Yummy! Gonna try it soon.”
+u5  “Chocolate lover's delight!”
+3
+u1 u2 u5
+5
+P2P1
+shared Headlines
+“Oil drilling in Alaska's indigenous communities is on the table again.”
+14 05 2024
+3
+u1  “Wow!”
+u2  “Informative”
+u5  “What can we do”
+3
+u1 u2 u5
+P2P2
+shared breaking news
+“Major earthquake strikes off the coast of Japan.”
+13 05 2024
+2
+u3 “Stay safe, everyone!”
+u4 “Prayers for those affected.”
+2
+u3 u4
+P2P3
+featured story
+“Investigative report reveals corruption in government contracts.”
+12 05 2024
+4
+u1 “Important revelation!”
+u2 “Shocking findings!”
+u4 “Transparency needed!”
+u5 “Accountability is key!”
+4
+u1 u2 u4 u5
+P2P4
+shared world news
+“Political unrest continues in the Middle East.”
+11 05 2024
+3
+u2 “Hope for stability.”
+u3 “Tense situation.”
+u5 “Peaceful resolution needed.”
+3
+u2 u3 u5
+P2P5
+shared opinion piece
+“Analysis: The impact of climate change on global food security.”
+10 05 2024
+3
+u1 “Critical issue!”
+u4 “Climate action is urgent!”
+u3 “We need sustainable solutions.”
+3
+u1 u4 u5
+5
+P3P1
+shared inspirational quote
+“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.”
+14 05 2024
+4
+u1 “Deep wisdom!”
+u2 “Powerful words!”
+u4 “Self-reflection is key.”
+u3 “Personal growth journey!”
+4
+u1 u2 u4 u5
+P3P2
+shared life lesson
+“Do not grieve. Anything you lose comes round in another form.”
+11 05 2024
+3
+u2 “Hopeful perspective.”
+u3 “Finding solace.”
+u5 “Reassuring words.”
+3
+u2 u3 u5
+P3P3
+shared spiritual quote
+“The wound is the place where the Light enters you.”
+10 05 2024
+2
+u1 “Beautiful metaphor!”
+u4 “Transformative insight.”
+2
+u1 u4
+P3P4
+shared love quote
+“Lovers don't finally meet somewhere. They're in each other all along.”
+05 05 2024
+3
+u3 “True connection!”
+u5 “Soulmates!”
+u2 “Love's eternal bond.”
+3
+u3 u5 u2
+P3P5
+shared wisdom quote
+“Raise your words, not your voice. It is rain that grows flowers, not thunder.”
+01 05 2024
+4
+u1 “Gentle strength.”
+u2 “Profound wisdom.”
+u4 “Power of calmness.”
+u5 “Words to live by.”
+4
+u1 u2 u4 u5
+3
+P4P1
+shared space exploration
+“NASA's Perseverance rover continues to explore the Martian surface, uncovering fascinating insights about the Red Planet.”
+15 05 2024
+3
+u1 “Incredible discoveries!”
+u2 “Exciting times for space exploration!”
+u3 “The future of space science!”
+3
+u1 u2 u3
+P4P2
+shared astronomy
+“Discoveries from the Hubble Space Telescope provide new insights into the vastness of the universe, revealing galaxies billions of light-years away.”
+14 05 2024
+4
+u2 “Mind-blowing images!”
+u3 “Awe-inspiring discoveries!”
+u4 “Expanding our understanding of the cosmos!”
+u5 “Stunning views of distant galaxies!”
+4
+u2 u3 u4 u5
+P4P3
+shared Earth observation
+“NASA satellites monitor changes in Earth's climate, providing crucial data to understand and address environmental challenges.”
+05 05 2024
+3
+u1 “Critical for climate research!”
+u3 “NASA's contribution to Earth science!”
+u5 “Protecting our planet for future generations!”
+3
+u1 u3 u5
+4
+P5P1
+shared Wildlife Photography
+“Stunning photographs capture the beauty and diversity of wildlife in the Amazon rainforest.”
+15 05 2024
+3
+u1 “Breathtaking shots!”
+u2 “Nature's wonders!”
+u3 “Protecting biodiversity is crucial!”
+3
+u1 u2 u3
+P5P2
+shared Environmental Conservation
+“Exploring efforts to protect endangered species and preserve their habitats across the globe.”
+13 05 2024
+4
+u2 “Conservation is key!”
+u3 “Saving species from extinction!”
+u4 “Habitat preservation is essential!”
+u5 “Supporting wildlife conservation!”
+4
+u2 u3 u4 u5
+P5P3
+shared Science and Exploration
+“Scientists uncover ancient civilizations and lost worlds through archaeological discoveries.”
+05 05 2024
+3
+u1 “Fascinating insights into the past!”
+u4 “Unraveling history's mysteries!”
+u2 “Journey through time!”
+3
+u1 u4 u2
+P5P4
+shared earth science
+“Dramatic landscapes and geological wonders reveal the Earth's ever-changing natural beauty.”
+01 05 2024
+2
+u3 “Nature's grandeur!”
+u5 “Exploring Earth's wonders!”
+2
+u3 u5
+
+u6

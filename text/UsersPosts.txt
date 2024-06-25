@@ -1,0 +1,203 @@
+6
+1P1
+feeling excited
+“OOP Project Started Yayy...”
+14 05 2024
+2
+u1 “d”
+u5 “1”
+5
+u1 u2 u3 u4 u5
+1P2
+thinking-about future
+“Future plans in software development…”
+13 04 2024
+3
+u2  “Excited for the journey”
+u3  “Hoping for the best”
+u4  “Stay focused”
+3
+u2 u3 u4
+1P3
+making memories
+“Delicious dinner tonight - Italian pasta!”
+03 04 2024
+5
+u3  “Can't wait to taste it”
+u4  “Save me a plate!”
+u5  “Yum, my favorite”
+u1  “I'm coming over!”
+u2  “Sounds amazing”
+2
+u3 u4
+1P4
+celebrating success
+“Achieved a milestone in my project!”
+31 04 2024
+5
+u4  “Congratulations!”
+u3  “Well done!”
+u2  “Great job!”
+u5  “Keep it up!”
+u1  “Awesome achievement!”
+5
+u1 u2 u3 u4 u5
+1P5
+feeling happy
+“Spending quality time with family today.”
+10 01 2024
+4
+u5  “Enjoy your time!”
+u3  “Cherish those moments!”
+u1  “Family first!”
+u2  “Have a wonderful day!”
+0
+1P6
+celebrating success
+“Graduation day! Finally got my degree!”
+15 05 2023
+5
+u2  “Congratulations!”
+u3  “You did it!”
+u1  “Hard work pays off!”
+u5  “So proud of you!”
+u4  “Way to go!”
+5
+u1 u2 u3 u4 u5
+4
+2P1
+shared coding
+“Solving programming challenges today!”
+14 05 2024
+2
+u1 “Keep coding!”
+u3 “You got this!”
+2
+u1 u3
+2P2
+feeling accomplished
+“Finished a difficult project!”
+13 05 2024
+3
+u4 “Impressive!”
+u5 “Well done!”
+u2 “Great achievement!”
+3
+u4 u5 u2
+2P3
+learning newthings
+“Exploring new technologies and frameworks.”
+12 05 2024
+4
+u1 “Exciting journey!”
+u4 “Good luck!”
+u5 “Enjoy the process!”
+u2 “Learning is fun!”
+4
+u1 u4 u5 u2
+2P4
+shared coding-Session
+“Late-night coding session with friends!”
+15 05 2023
+2
+u2 “Coding buddies!”
+u3 “Teamwork rocks!”
+0
+3
+3P1
+shared Coding-marathon
+“Participating in a coding marathon this weekend!”
+14 05 2024
+2
+u1 “Good luck!”
+u2 “Have fun!”
+2
+u1 u2
+3P2
+shared problem_Solving
+“Working on complex algorithms.”
+13 05 2024
+3
+u4 “You got this!”
+u5 “Push your limits!”
+u2 “Believe in yourself!”
+3
+u4 u5 u1
+3P3
+doing code-review
+“Reviewing code for better optimization.”
+15 05 2023
+1
+u1 “Code quality matters!”
+1
+u1
+5
+4P1
+shared Debugging
+“Debugging errors in the codebase.”
+14 05 2024
+2
+u2 “Stay patient!”
+u3 “You'll figure it out!”
+2
+u2 u3
+4P2
+shared code-refactoring
+“Refactoring code for improved efficiency.”
+13 05 2024
+3
+u1 “Optimization is key!”
+u3 “Code cleanup!”
+u5 “Keep it clean!”
+3
+u1 u3 u5
+4P3
+shared CodingStrategy
+“Planning for a long-term coding strategy.”
+05 05 2024
+1
+u1 “Strategic thinking!”
+1
+u1
+4P4
+feeling excited
+“Taking on coding challenges to level up!”
+01 05 2024
+3
+u2 “Challenge accepted!”
+u4 “Push your boundaries!”
+u5 “Continuous improvement!”
+3
+u2 u4 u3
+4P5
+feeling happy
+“Solving real-world problems with code.”
+15 05 2023
+2
+u1 “Making a difference!”
+u5 “Code for good!”
+2
+u1 u5
+2
+5P1
+thinking_about life
+“Embarking on a coding journey!”
+14 05 2024
+3
+u3 “Exciting times!”
+u4 “Enjoy the ride!”
+u1 “Happy coding!”
+3
+u3 u4 u5
+5P2
+making money
+“Mastering algorithms for better problem-solving.”
+15 05 2023
+1
+u2 “Algorithmic thinking!”
+1
+u2
+
+
+
+

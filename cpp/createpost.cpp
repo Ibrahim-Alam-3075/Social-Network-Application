@@ -3,7 +3,7 @@
 #include "SocialMediaApp.h"
 
 createpost::createpost(QWidget *parent) :
-    QDialog(parent),
+    QDialog(paremnt),
     ui(new Ui::createpost)
 {
     ui->setupUi(this);

@@ -72,9 +72,6 @@ Welcome to the repository for our Social Media App, crafted meticulously in C++ 
 10. **View Page**
     - Prompt the user for the page ID and display all its posts.
 
-## Execution Flow Control
-
-The application has a defined entry point. A manager class or `App` class serves as the master or driver class of the application. The function `SocialNetworkApp::Run()` is the main function. All functionality is delegated to the appropriate classes, ensuring separation of concerns and avoiding direct implementation within the `main()` function.
 
 ## Installation and Setup
 
